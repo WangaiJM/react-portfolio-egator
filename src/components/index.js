@@ -1,0 +1,9 @@
+export { About } from "./about/About";
+export { Contact } from "./contact/Contact";
+export { Experience } from "./experience/Experience";
+export { Header } from "./header/Header";
+export { Footer } from "./footer/Footer";
+export { Nav } from "./nav/Nav";
+export { Portfolio } from "./portfolio/Portfolio";
+export { Services } from "./services/Services";
+export { Testimonials } from "./testimonials/Testimonials";
